@@ -1,0 +1,454 @@
+{
+    "worldAttributeSetting": {
+        "blockList": [
+            {
+                "name": "控制台属性",
+                "blockAttrs": [
+                    {
+                        "attr": {
+                            "id": "72000929321_0.3430621435983978",
+                            "varName": "背景遮罩图片路径",
+                            "varType": 1,
+                            "compData": {
+                                "compType": 9,
+                                "compParam": {}
+                            },
+                            "defaultValue": "",
+                            "hideMode": false,
+                            "useCommand": false,
+                            "onlyPointTo": false,
+                            "moduleID": 1,
+                            "dataStructureID": 1,
+                            "arrayMode": false,
+                            "arrayLength": 100,
+                            "arrayAllowDelete": false,
+                            "arrayAllowSwap": false,
+                            "arrayAllowUpdate": false,
+                            "accessMode": 1,
+                            "syncMode": 0,
+                            "attrTips": "",
+                            "alias": "",
+                            "onlyConfig": true,
+                            "preview": false,
+                            "autoTitleWidth": true,
+                            "titleWidth": 100,
+                            "eyeShow": true,
+                            "lockBlock": false
+                        },
+                        "attrConditions": [],
+                        "y": 20,
+                        "x": 20,
+                        "width": 400,
+                        "height": 32
+                    },
+                    {
+                        "attr": {
+                            "id": "72001861206_0.42949202340616743",
+                            "varName": "输出框左上角x值",
+                            "varType": 0,
+                            "compData": {
+                                "compType": 0,
+                                "compParam": {}
+                            },
+                            "defaultValue": "",
+                            "hideMode": false,
+                            "useCommand": false,
+                            "onlyPointTo": false,
+                            "moduleID": 1,
+                            "dataStructureID": 1,
+                            "arrayMode": false,
+                            "arrayLength": 100,
+                            "arrayAllowDelete": false,
+                            "arrayAllowSwap": false,
+                            "arrayAllowUpdate": false,
+                            "accessMode": 1,
+                            "syncMode": 0,
+                            "attrTips": "",
+                            "alias": "",
+                            "onlyConfig": false,
+                            "preview": false,
+                            "autoTitleWidth": true,
+                            "titleWidth": 100,
+                            "eyeShow": true,
+                            "lockBlock": false
+                        },
+                        "attrConditions": [],
+                        "y": 0,
+                        "x": 0,
+                        "width": 200,
+                        "height": 32
+                    },
+                    {
+                        "attr": {
+                            "id": "72002095478_0.7902705715089597",
+                            "varName": "输出框左上角y值",
+                            "varType": 0,
+                            "compData": {
+                                "compType": 0,
+                                "compParam": {}
+                            },
+                            "defaultValue": "",
+                            "hideMode": false,
+                            "useCommand": false,
+                            "onlyPointTo": false,
+                            "moduleID": 1,
+                            "dataStructureID": 1,
+                            "arrayMode": false,
+                            "arrayLength": 100,
+                            "arrayAllowDelete": false,
+                            "arrayAllowSwap": false,
+                            "arrayAllowUpdate": false,
+                            "accessMode": 1,
+                            "syncMode": 0,
+                            "attrTips": "",
+                            "alias": "",
+                            "onlyConfig": false,
+                            "preview": false,
+                            "autoTitleWidth": true,
+                            "titleWidth": 100,
+                            "eyeShow": true,
+                            "lockBlock": false
+                        },
+                        "attrConditions": [],
+                        "y": 0,
+                        "x": 0,
+                        "width": 200,
+                        "height": 32
+                    },
+                    {
+                        "attr": {
+                            "id": "72001956880_0.8600804957088528",
+                            "varName": "输出框高度",
+                            "varType": 0,
+                            "compData": {
+                                "compType": 0,
+                                "compParam": {}
+                            },
+                            "defaultValue": "",
+                            "hideMode": false,
+                            "useCommand": false,
+                            "onlyPointTo": false,
+                            "moduleID": 1,
+                            "dataStructureID": 1,
+                            "arrayMode": false,
+                            "arrayLength": 100,
+                            "arrayAllowDelete": false,
+                            "arrayAllowSwap": false,
+                            "arrayAllowUpdate": false,
+                            "accessMode": 1,
+                            "syncMode": 0,
+                            "attrTips": "",
+                            "alias": "",
+                            "onlyConfig": false,
+                            "preview": false,
+                            "autoTitleWidth": true,
+                            "titleWidth": 100,
+                            "eyeShow": true,
+                            "lockBlock": false
+                        },
+                        "attrConditions": [],
+                        "y": 0,
+                        "x": 0,
+                        "width": 200,
+                        "height": 32
+                    },
+                    {
+                        "attr": {
+                            "id": "72001992267_0.3009324961325237",
+                            "varName": "输出框宽度",
+                            "varType": 0,
+                            "compData": {
+                                "compType": 0,
+                                "compParam": {}
+                            },
+                            "defaultValue": "",
+                            "hideMode": false,
+                            "useCommand": false,
+                            "onlyPointTo": false,
+                            "moduleID": 1,
+                            "dataStructureID": 1,
+                            "arrayMode": false,
+                            "arrayLength": 100,
+                            "arrayAllowDelete": false,
+                            "arrayAllowSwap": false,
+                            "arrayAllowUpdate": false,
+                            "accessMode": 1,
+                            "syncMode": 0,
+                            "attrTips": "",
+                            "alias": "",
+                            "onlyConfig": false,
+                            "preview": false,
+                            "autoTitleWidth": true,
+                            "titleWidth": 100,
+                            "eyeShow": true,
+                            "lockBlock": false
+                        },
+                        "attrConditions": [],
+                        "y": 0,
+                        "x": 0,
+                        "width": 200,
+                        "height": 32
+                    },
+                    {
+                        "attr": {
+                            "id": "72002223071_0.21502312548287872",
+                            "varName": "输出文本位置",
+                            "varType": 0,
+                            "compData": {
+                                "compType": 0,
+                                "compParam": {}
+                            },
+                            "defaultValue": "",
+                            "hideMode": false,
+                            "useCommand": false,
+                            "onlyPointTo": false,
+                            "moduleID": 1,
+                            "dataStructureID": 1,
+                            "arrayMode": false,
+                            "arrayLength": 100,
+                            "arrayAllowDelete": false,
+                            "arrayAllowSwap": false,
+                            "arrayAllowUpdate": false,
+                            "accessMode": 1,
+                            "syncMode": 0,
+                            "attrTips": "",
+                            "alias": "",
+                            "onlyConfig": false,
+                            "preview": false,
+                            "autoTitleWidth": true,
+                            "titleWidth": 100,
+                            "eyeShow": true,
+                            "lockBlock": false
+                        },
+                        "attrConditions": [],
+                        "y": 0,
+                        "x": 0,
+                        "width": 200,
+                        "height": 32
+                    },
+                    {
+                        "attr": {
+                            "id": "72002120178_0.8504676189724547",
+                            "varName": "输入框左上角x值",
+                            "varType": 0,
+                            "compData": {
+                                "compType": 0,
+                                "compParam": {}
+                            },
+                            "defaultValue": "",
+                            "hideMode": false,
+                            "useCommand": false,
+                            "onlyPointTo": false,
+                            "moduleID": 1,
+                            "dataStructureID": 1,
+                            "arrayMode": false,
+                            "arrayLength": 100,
+                            "arrayAllowDelete": false,
+                            "arrayAllowSwap": false,
+                            "arrayAllowUpdate": false,
+                            "accessMode": 1,
+                            "syncMode": 0,
+                            "attrTips": "",
+                            "alias": "",
+                            "onlyConfig": false,
+                            "preview": false,
+                            "autoTitleWidth": true,
+                            "titleWidth": 100,
+                            "eyeShow": true,
+                            "lockBlock": false
+                        },
+                        "attrConditions": [],
+                        "y": 0,
+                        "x": 0,
+                        "width": 200,
+                        "height": 32
+                    },
+                    {
+                        "attr": {
+                            "id": "72002137846_0.4999449756205645",
+                            "varName": "输入框左上角y值",
+                            "varType": 0,
+                            "compData": {
+                                "compType": 0,
+                                "compParam": {}
+                            },
+                            "defaultValue": "",
+                            "hideMode": false,
+                            "useCommand": false,
+                            "onlyPointTo": false,
+                            "moduleID": 1,
+                            "dataStructureID": 1,
+                            "arrayMode": false,
+                            "arrayLength": 100,
+                            "arrayAllowDelete": false,
+                            "arrayAllowSwap": false,
+                            "arrayAllowUpdate": false,
+                            "accessMode": 1,
+                            "syncMode": 0,
+                            "attrTips": "",
+                            "alias": "",
+                            "onlyConfig": false,
+                            "preview": false,
+                            "autoTitleWidth": true,
+                            "titleWidth": 100,
+                            "eyeShow": true,
+                            "lockBlock": false
+                        },
+                        "attrConditions": [],
+                        "y": 0,
+                        "x": 0,
+                        "width": 200,
+                        "height": 32
+                    },
+                    {
+                        "attr": {
+                            "id": "72002021953_0.6584813863548915",
+                            "varName": "输入框高度",
+                            "varType": 0,
+                            "compData": {
+                                "compType": 0,
+                                "compParam": {}
+                            },
+                            "defaultValue": "",
+                            "hideMode": false,
+                            "useCommand": false,
+                            "onlyPointTo": false,
+                            "moduleID": 1,
+                            "dataStructureID": 1,
+                            "arrayMode": false,
+                            "arrayLength": 100,
+                            "arrayAllowDelete": false,
+                            "arrayAllowSwap": false,
+                            "arrayAllowUpdate": false,
+                            "accessMode": 1,
+                            "syncMode": 0,
+                            "attrTips": "",
+                            "alias": "",
+                            "onlyConfig": false,
+                            "preview": false,
+                            "autoTitleWidth": true,
+                            "titleWidth": 100,
+                            "eyeShow": true,
+                            "lockBlock": false
+                        },
+                        "attrConditions": [],
+                        "y": 0,
+                        "x": 0,
+                        "width": 200,
+                        "height": 32
+                    },
+                    {
+                        "attr": {
+                            "id": "72002060923_0.4182561107617384",
+                            "varName": "输入框宽度",
+                            "varType": 0,
+                            "compData": {
+                                "compType": 0,
+                                "compParam": {}
+                            },
+                            "defaultValue": "",
+                            "hideMode": false,
+                            "useCommand": false,
+                            "onlyPointTo": false,
+                            "moduleID": 1,
+                            "dataStructureID": 1,
+                            "arrayMode": false,
+                            "arrayLength": 100,
+                            "arrayAllowDelete": false,
+                            "arrayAllowSwap": false,
+                            "arrayAllowUpdate": false,
+                            "accessMode": 1,
+                            "syncMode": 0,
+                            "attrTips": "",
+                            "alias": "",
+                            "onlyConfig": false,
+                            "preview": false,
+                            "autoTitleWidth": true,
+                            "titleWidth": 100,
+                            "eyeShow": true,
+                            "lockBlock": false
+                        },
+                        "attrConditions": [],
+                        "y": 0,
+                        "x": 0,
+                        "width": 200,
+                        "height": 32
+                    }
+                ],
+                "blockCondition": [],
+                "blockHeight": 94,
+                "autoOrder": true
+            }
+        ],
+        "compAutoOrderLimitHeight": 0,
+        "compAutoOrder": true
+    },
+    "playerAttributeSetting": {
+        "blockList": [
+            {
+                "name": "玩家属性",
+                "blockAttrs": [],
+                "blockCondition": [],
+                "blockHeight": 234,
+                "autoOrder": true
+            }
+        ]
+    },
+    "worldAttributeConfig": {
+        "attrs": {
+            "背景遮罩图片路径": {
+                "varType": 1,
+                "value": "",
+                "copy": false
+            },
+            "输出框左上角x值": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "输出框左上角y值": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "输出框高度": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "输出框宽度": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "输入框左上角x值": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "输入框左上角y值": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "输入框高度": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "输入框宽度": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            },
+            "输出文本位置": {
+                "varType": 0,
+                "value": 0,
+                "copy": false
+            }
+        }
+    },
+    "playerAttributeConfig": {
+        "attrs": {}
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "list": {
+        "1": [
+            null,
+            ""
+        ],
+        "2": [
+            null,
+            "wocaniawa"
+        ],
+        "3": [
+            null
+        ],
+        "16": [
+            null,
+            ""
+        ]
+    },
+    "type": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "16": ""
+    },
+    "data": {
+        "1": {
+            "id": 1,
+            "blockList": [
+                {
+                    "name": "未命名块",
+                    "blockAttrs": [],
+                    "blockCondition": [],
+                    "blockHeight": 300,
+                    "autoOrder": true,
+                    "cmdColor": "#FFFFFF"
+                }
+            ],
+            "isCustomPhraseDesc": false
+        },
+        "1001": {
+            "id": 1001,
+            "blockList": [
+                {
+                    "name": "掉落道具",
+                    "blockAttrs": [],
+                    "blockCondition": [],
+                    "blockHeight": 96,
+                    "autoOrder": true
+                }
+            ]
+        },
+        "15001": {
+            "id": 15001,
+            "blockList": [
+                {
+                    "name": "未命名块",
+                    "blockAttrs": [],
+                    "blockCondition": [],
+                    "blockHeight": 300,
+                    "autoOrder": true,
+                    "hideBlockTitle": false,
+                    "cmdColor": "#FFFFFF"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "preloadMapAsset": true,
+    "preloadSceneObjectAsset": true,
+    "preloadSceneCommandAsset": true,
+    "dataLayers": [],
+    "sceneObjects": [],
+    "customCommandPages": [],
+    "preLoadAssets": [],
+    "serverInstanceClassName": "ServerScene",
+    "clientInstanceClassName": "ClientScene",
+    "id": 1,
+    "name": "新的地图1",
+    "width": 1216,
+    "height": 704,
+    "LayerDatas": [
+        {
+            "p": true,
+            "showOnEditor": true
+        }
+    ]
+}
